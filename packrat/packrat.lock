@@ -1,6 +1,6 @@
 PackratFormat: 1.4
 PackratVersion: 0.4.8.1
-RVersion: 3.3.3
+RVersion: 3.6.1
 Repos: CRAN=https://cran.rstudio.com/
 
 Package: BH
@@ -36,8 +36,7 @@ Hash: c0d56cd15034f395874c870141870c25
 
 Package: Rcpp
 Source: CRAN
-Version: 0.12.11
-Hash: 2ee22f3b5e75dec80b1d8eca61cd96d8
+Version: 1.0.3
 
 Package: TSP
 Source: CRAN
@@ -101,8 +100,7 @@ Hash: 8162b82ca4809c0d63c30aedbd7348e0
 
 Package: data.table
 Source: CRAN
-Version: 1.10.4
-Hash: 2c7c47ccb40d01c7b214c8eff818108d
+Version: 1.12.6
 
 Package: dendextend
 Source: CRAN
