@@ -1,0 +1,12 @@
+name: plate-viewer
+title: plate-viewer
+username: saddlerto
+account: saddlerto
+server: sandbox-staging.ntp.niehs.nih.gov
+hostUrl: https://sandbox-staging.ntp.niehs.nih.gov/rsconnect/__api__
+appId: 10
+bundleId: 19
+url: https://sandbox-staging.ntp.niehs.nih.gov:443/rsconnect/content/10/
+when: 1582574012.71055
+asMultiple: FALSE
+asStatic: FALSE
